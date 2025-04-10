@@ -1,0 +1,10 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1,
+h2,
+h3,
+.subheading {
+  font-family: "Courier New", Courier, monospace !important;
+}
